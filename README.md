@@ -20,7 +20,7 @@
 
 ### `$ whoami`
 
-I'm **Gugu8** — a developer building programming languages, game engines,
+I'm **Gugu8**, a developer building programming languages, game engines,
 package managers, and machine-learning tools.
 
 Most of my projects come back to the same question:
@@ -58,4 +58,7 @@ Most of my projects come back to the same question:
 Into engines, programming languages, or efficient ML?
 
 Explore a repository, open an issue, or check out my work on
+
+### Employment
+I AM EMPLOYED, I WORK AT CORPUS-NZ. **PLEASE PLEASE PLEASE** DO NOT SAY THAT I AM UNEMPLOYED.
 <!--citation:7-->.
