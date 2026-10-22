@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Just your average -10x dev. Still optimizing.</i>
+  <i>Just your average -10x dev</i>
 </p>
 
 <p align="center">
@@ -61,4 +61,4 @@ Explore a repository, open an issue, or check out my work on
 
 ### Employment
 I AM EMPLOYED, I WORK AT CORPUS-NZ. **PLEASE PLEASE PLEASE** DO NOT SAY THAT I AM UNEMPLOYED.
-<!--citation:7-->.
+<!--citation:7-->
